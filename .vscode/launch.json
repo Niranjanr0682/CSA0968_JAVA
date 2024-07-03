@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Armst",
+            "request": "launch",
+            "mainClass": "Armst",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "fd",
+            "request": "launch",
+            "mainClass": "fd",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "h",
+            "request": "launch",
+            "mainClass": "h",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "addition",
+            "request": "launch",
+            "mainClass": "addition",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "${workspaceFolder}/<executable file>",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
