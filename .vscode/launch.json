@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rs",
+            "request": "launch",
+            "mainClass": "rs",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Rs",
+            "request": "launch",
+            "mainClass": "Rs",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "vv",
+            "request": "launch",
+            "mainClass": "vv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "sc",
+            "request": "launch",
+            "mainClass": "sc",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "vc",
+            "request": "launch",
+            "mainClass": "vc",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "sv",
+            "request": "launch",
+            "mainClass": "sv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "rv",
+            "request": "launch",
+            "mainClass": "rv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Strcmp",
+            "request": "launch",
+            "mainClass": "Strcmp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Strlen",
+            "request": "launch",
+            "mainClass": "Strlen",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "StringCompare",
+            "request": "launch",
+            "mainClass": "StringCompare",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
             "name": "Armst",
             "request": "launch",
             "mainClass": "Armst",
