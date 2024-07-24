@@ -1,0 +1,289 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "class1",
+            "request": "launch",
+            "mainClass": "class1",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Class",
+            "request": "launch",
+            "mainClass": "Class",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Classpro",
+            "request": "launch",
+            "mainClass": "Classpro",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "lsp",
+            "request": "launch",
+            "mainClass": "lsp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "rsp",
+            "request": "launch",
+            "mainClass": "rsp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "dp",
+            "request": "launch",
+            "mainClass": "dp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "lp",
+            "request": "launch",
+            "mainClass": "lp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "up",
+            "request": "launch",
+            "mainClass": "up",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "npp",
+            "request": "launch",
+            "mainClass": "npp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "np",
+            "request": "launch",
+            "mainClass": "np",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "cna",
+            "request": "launch",
+            "mainClass": "cna",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Dectobinary",
+            "request": "launch",
+            "mainClass": "Dectobinary",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "mmm",
+            "request": "launch",
+            "mainClass": "mmm",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "d2b",
+            "request": "launch",
+            "mainClass": "d2b",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Amm",
+            "request": "launch",
+            "mainClass": "Amm",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Am",
+            "request": "launch",
+            "mainClass": "Am",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Mul",
+            "request": "launch",
+            "mainClass": "Mul",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "mm",
+            "request": "launch",
+            "mainClass": "mm",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ma",
+            "request": "launch",
+            "mainClass": "ma",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMinMax",
+            "request": "launch",
+            "mainClass": "ArrayMinMax",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "rs",
+            "request": "launch",
+            "mainClass": "rs",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Rs",
+            "request": "launch",
+            "mainClass": "Rs",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "vv",
+            "request": "launch",
+            "mainClass": "vv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "sc",
+            "request": "launch",
+            "mainClass": "sc",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "vc",
+            "request": "launch",
+            "mainClass": "vc",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "sv",
+            "request": "launch",
+            "mainClass": "sv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "rv",
+            "request": "launch",
+            "mainClass": "rv",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Strcmp",
+            "request": "launch",
+            "mainClass": "Strcmp",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Strlen",
+            "request": "launch",
+            "mainClass": "Strlen",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "StringCompare",
+            "request": "launch",
+            "mainClass": "StringCompare",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Armst",
+            "request": "launch",
+            "mainClass": "Armst",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "fd",
+            "request": "launch",
+            "mainClass": "fd",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "h",
+            "request": "launch",
+            "mainClass": "h",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "addition",
+            "request": "launch",
+            "mainClass": "addition",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "CSA0968_JAVA_3d970e4"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "${workspaceFolder}/<executable file>",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

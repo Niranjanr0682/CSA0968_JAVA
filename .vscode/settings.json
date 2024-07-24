@@ -1,0 +1,35 @@
+{
+    "java.project.sourcePaths": [
+      "project",
+      "juzzzz",
+      "class_work",
+      "capstone project",
+      "9.7.24",
+      "8.7.24",
+      "11.7.24",
+      "10.7.24",
+      "draft project"
+    ],
+    "java.project.referencedLibraries": [
+      "capstone project/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
+      "project/mysql-connector-j-9.0.0.jar"
+    ],
+    "java.configuration.runtimes": [
+
+        {
+            "name": "JavaSE-22",
+            "path": "C:\\Program Files\\Java\\jdk-22",
+            "default": true
+          },
+          {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.3.9-hotspot"
+          },
+          {
+            "name": "JavaSE-1.8",
+            "path": "C:\\Program Files\\Red Hat openjdk-1.8.0.392"
+          }
+      
+    ]
+    
+}
