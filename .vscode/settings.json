@@ -2,13 +2,14 @@
     "java.project.sourcePaths": [
       "project",
       "juzzzz",
+      "draft project",
       "class_work",
       "capstone project",
       "9.7.24",
       "8.7.24",
       "11.7.24",
       "10.7.24",
-      "draft project"
+      "sbc"
     ],
     "java.project.referencedLibraries": [
       "capstone project/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
